@@ -12,7 +12,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🚀 Projects
-- Coming soon! My first project is in progress.
+- [Student Marks Analysis](https://github.com/YOUR-USERNAME/student-marks-analysis): analyzed study hours vs marks using Python, pandas, and Matplotlib
 
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/punith-c-95798b236)
