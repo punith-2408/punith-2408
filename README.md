@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Punith 👋
 
-<!--
-**punith-2408/punith-2408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Data Science student at Acharya Institute of Technology, Bengaluru
+📊 Currently learning: Python, SQL, Statistics, and Machine Learning
+🌱 Building small projects and sharing what I learn
+📫 Reach me: punithc_26beds@acharya.ac.in
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Coming soon! My first project is in progress.
+
+## 🔗 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/punith-c-95798b236)
